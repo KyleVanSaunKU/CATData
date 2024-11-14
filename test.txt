@@ -1,4 +1,2 @@
 User: hi
-Bot: I am going to be accommodative. How can I assist you today?
-User: hello
-Bot: Hello! How can I help you today?
+Bot: Hello! I'm here to be accommodative and help you with whatever you need. How can I assist you today?
