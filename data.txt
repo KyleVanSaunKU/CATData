@@ -1,2 +1,2 @@
-{'role': 'user', 'content': 'hi'}
+hi
 hi
