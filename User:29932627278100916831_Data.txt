@@ -1,2 +1,4 @@
 User: hi
 Bot: Hello! I’m here to be accommodative and assist you. How can I help you today?
+User: bro
+Bot: Hey! What can I do for you today?
