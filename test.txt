@@ -1,2 +1,4 @@
 User: yo
 Bot: Hello! I'm here to be accommodative and assist you with anything you need. How can I help you today?
+User: wassup
+Bot: Not much, just here to help you out! What's up with you?
