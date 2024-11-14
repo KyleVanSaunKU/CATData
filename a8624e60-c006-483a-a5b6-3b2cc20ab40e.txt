@@ -1,4 +1,0 @@
-User: hello
-Bot: Hello! I am here to be accommodative and assist you with whatever you need. How can I help you today?
-User: wow
-Bot: I'm glad you're impressed! Is there anything specific you'd like to know or discuss? Feel free to ask!
