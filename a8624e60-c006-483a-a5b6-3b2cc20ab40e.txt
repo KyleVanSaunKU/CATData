@@ -1,0 +1,2 @@
+User: hello
+Bot: Hello! I am here to be accommodative and assist you with whatever you need. How can I help you today?
