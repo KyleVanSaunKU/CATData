@@ -1,2 +1,0 @@
-User: hi
-Bot: Hello! I'm here to be accommodative and help you with whatever you need. How can I assist you today?
