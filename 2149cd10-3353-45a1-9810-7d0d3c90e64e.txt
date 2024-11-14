@@ -4,3 +4,5 @@ User: hi
 Bot: Hi there! How can I help you today?
 User: كيف حالك
 Bot: أنا بخير، شكرًا لسؤالك! كيف يمكنني مساعدتك اليوم؟
+User: اهلا
+Bot: أهلاً وسهلاً! كيف يمكنني مساعدتك اليوم؟
