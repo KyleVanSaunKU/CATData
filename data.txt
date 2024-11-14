@@ -1,1 +1,2 @@
-whatwhat
+{'role': 'user', 'content': 'hi'}
+hi
